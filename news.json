@@ -1,6 +1,6 @@
 {
     "version" : 2,
-    "image" : "https://hfnews.github.io/img/1.jpg,
+    "image" : "https://hfnews.github.io/img/1.jpg",
     "link" : "https://hfnews.github.io/",
     "text" : "Check out our {a=https://hfnews.github.io}new{/a} project."
 }
