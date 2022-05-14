@@ -1,5 +1,6 @@
 {
     "version" : 2,
+    "slot_1" : "https://anivision-gw.github.io/HFNews/img/2.png",
     "image" : "https://anivision-gw.github.io/HFNews/img/1.png",
     "link" : "https://t.me/anivision",
     "text" : "{size=28}ОНОВЛЕННЯ: \"Новини зовсім поруч!!!\"{/size}\n\nМи хочемо щоб ви були в курсі усіх оновлень пректу \"Святий ліс\":\n\n-додано модуль новин (HFNews)\n-додано модуль візуальних еффектів (VFX codename Veronica)\n-нова система візуалізації персонажів (characterCompositor)\n-удосконалено ігрове меню\n\n-актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
