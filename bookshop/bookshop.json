@@ -4,25 +4,31 @@
     "name_1" : "Назва 1",
     "text_1" : "Опис 1",
     "link_1" : "Посилання 1",
+    
     "cover_2" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_2.png",
     "name_2" : "Назва 2",
     "text_2" : "Опис 2",
     "link_2" : "Посилання 2",
+    
     "cover_3" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_3.png",
     "name_3" : "Назва 3",
     "text_3" : "Опис 3",
     "link_3" : "Посилання 3",
+    
     "cover_4" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_4.png",
     "name_4" : "Назва 4",
     "text_4" : "Опис 4",
     "link_4" : "Посилання 4",
+    
     "cover_5" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_5.png",
     "name_5" : "Назва 4",
     "text_5" : "Опис 4",
     "link_5" : "Посилання 4",
+    
     "cover_6" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_6.png",
     "name_6" : "Назва 6",
     "text_6" : "Опис 6",
     "link_6" : "Посилання 6",
+    
     "more_info" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}"
 }
