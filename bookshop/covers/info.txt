@@ -1,1 +1,1 @@
-
+cover_size = 500x760
