@@ -7,7 +7,10 @@
     "writer_1" : "Writer Name",
     "artist_1" : "Artist Name",
     "colorist_1" : "Василь Пупкін",
-    "genre_1" : "Video Game, Fantasy, Action/Adventure", 
+    "genre_1" : "Video Game, Fantasy, Action/Adventure",
+    "info_1" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
+    "year_1" : "May 11, 2022",
+    
     
     "cover_2" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_2.png",
     "name_2" : "Назва 2",
