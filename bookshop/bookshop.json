@@ -3,7 +3,6 @@
     
     "bookshop" : [
         {
-            
             "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_1.png",
             "name" : "ОЛЬГА",
             "text" : "\"Ольга\" - це незалежний проєкт молодої команди українських художників, які поставили собі за мету створити мальопис, насичений нашою культурою і народним колоритом через історію маленької дівчинки Ольги, що стала найкрутішою і найвідомішою княгинею Київської Русі",
@@ -20,31 +19,66 @@
             "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_2.png",
             "name" : "Назва 2",
             "text" : "Опис 2",
-            "link" : "Посилання 2"
+            "link" : "Посилання 2",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "colorist" : "Colorist Name",
+            "genre" : "Video Game, Fantasy, Action/Adventure",
+            "info" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
+            "year" : "May 11, 2022",
+            "format" : "FC, 32 pages; Miniseries"
         },
         {
             "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_3.png",
             "name" : "Назва 3",
             "text" : "Опис 3",
-            "link" : "Посилання 3"
+            "link" : "Посилання 3",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "colorist" : "Colorist Name",
+            "genre" : "Video Game, Fantasy, Action/Adventure",
+            "info" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
+            "year" : "May 11, 2022",
+            "format" : "FC, 32 pages; Miniseries"
         },
         {
             "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_4.png",
             "name" : "Назва 4",
             "text" : "Опис 4",
-            "link" : "Посилання 4"
+            "link" : "Посилання 4",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "colorist" : "Colorist Name",
+            "genre" : "Video Game, Fantasy, Action/Adventure",
+            "info" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
+            "year" : "May 11, 2022",
+            "format" : "FC, 32 pages; Miniseries"
         },
         {
             "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_5.png",
             "name" : "Назва 4",
             "text" : "Опис 4",
-            "link" : "Посилання 4"
+            "link" : "Посилання 4",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "colorist" : "Colorist Name",
+            "genre" : "Video Game, Fantasy, Action/Adventure",
+            "info" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
+            "year" : "May 11, 2022",
+            "format" : "FC, 32 pages; Miniseries"
         },
         {
             "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_6.png",
             "name" : "Назва 6",
             "text" : "Опис 6",
             "link" : "Посилання 6",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "colorist" : "Colorist Name",
+            "genre" : "Video Game, Fantasy, Action/Adventure",
+            "info" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
+            "year" : "May 11, 2022",
+            "format" : "FC, 32 pages; Miniseries"
         }
     ],
     
