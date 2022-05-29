@@ -1,42 +1,74 @@
 {
     "version" : 2,
-    "cover_1" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_1.png",
-    "name_1" : "ОЛЬГА",
-    "text_1" : "\"Ольга\" - це незалежний проєкт молодої команди українських художників, які поставили собі за мету створити мальопис, насичений нашою культурою і народним колоритом через історію маленької дівчинки Ольги, що стала найкрутішою і найвідомішою княгинею Київської Русі",
-    "link_1" : "Посилання 1",
-    "writer_1" : "Writer Name",
-    "artist_1" : "Artist Name",
-    "colorist_1" : "Colorist Name",
-    "genre_1" : "Video Game, Fantasy, Action/Adventure",
-    "info_1" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}",
-    "year_1" : "May 11, 2022",
-    "format_1" : "FC, 32 pages; Miniseries",
     
-    
-    "cover_2" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_2.png",
-    "name_2" : "Назва 2",
-    "text_2" : "Опис 2",
-    "link_2" : "Посилання 2",
-    
-    "cover_3" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_3.png",
-    "name_3" : "Назва 3",
-    "text_3" : "Опис 3",
-    "link_3" : "Посилання 3",
-    
-    "cover_4" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_4.png",
-    "name_4" : "Назва 4",
-    "text_4" : "Опис 4",
-    "link_4" : "Посилання 4",
-    
-    "cover_5" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_5.png",
-    "name_5" : "Назва 4",
-    "text_5" : "Опис 4",
-    "link_5" : "Посилання 4",
-    
-    "cover_6" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_6.png",
-    "name_6" : "Назва 6",
-    "text_6" : "Опис 6",
-    "link_6" : "Посилання 6",
+    "books" : [
+        {
+            "name" : "ОЛЬГА",
+            "descriptor" : "\"Ольга\" - це незалежний проєкт молодої команди українських художників, які поставили собі за мету створити мальопис, насичений нашою культурою і народним колоритом через історію маленької дівчинки Ольги, що стала найкрутішою і найвідомішою княгинею Київської Русі",
+            "date":"May 11, 2022",
+            "genres":"Video Game, Fantasy, Action/Adventure",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_1.png",
+            "link" : "Посилання 1",
+            "format" : "FC, 32 pages; Miniseries"
+        },
+        {
+            "name" : "Книга 1",
+            "descriptor" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date":"May 11, 2022",
+            "genres":"Video Game, Fantasy, Action/Adventure",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_2.png",
+            "link" : "Посилання 1",
+            "format" : "FC, 32 pages; Miniseries"
+        },
+        {
+            "name" : "Книга 2",
+            "descriptor" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date":"May 11, 2022",
+            "genres":"Video Game, Fantasy, Action/Adventure",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_3.png",
+            "link" : "Посилання 1",
+            "format" : "FC, 32 pages; Miniseries"
+        },
+        {
+            "name" : "Книга 3",
+            "descriptor" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date":"May 11, 2022",
+            "genres":"Video Game, Fantasy, Action/Adventure",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_4.png",
+            "link" : "Посилання 1",
+            "format" : "FC, 32 pages; Miniseries"
+        },
+        {
+            "name" : "Книга 4",
+            "descriptor" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date":"May 11, 2022",
+            "genres":"Video Game, Fantasy, Action/Adventure",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_5.png",
+            "link" : "Посилання 1",
+            "format" : "FC, 32 pages; Miniseries"
+        },
+        {
+            "name" : "Книга 5",
+            "descriptor" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date":"May 11, 2022",
+            "genres":"Video Game, Fantasy, Action/Adventure",
+            "writer" : "Writer Name",
+            "artist" : "Artist Name",
+            "cover" : "https://anivision-gw.github.io/HFNews/bookshop/covers/cover_6.png",
+            "link" : "Посилання 1",
+            "format" : "FC, 32 pages; Miniseries"
+        },
+    ],
     
     "more_info" : "Актуальну інформацію по проекту ви можете знайти у нашому {a=https://t.me/anivision}телеграм каналі{/a}"
 }
